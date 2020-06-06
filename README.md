@@ -5,5 +5,7 @@ There are 3 callbacks which track all the events so it become very easy to evoke
 
 ![](https://github.com/shaksham08/StopWatch/blob/master/test.gif)
 
+Do have a look at it and feel free to use this in tour project as well. 😀
+
 
 
